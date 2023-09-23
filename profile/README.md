@@ -24,7 +24,7 @@ The Equidistant Project stands as a beacon against the tide of misinformation an
 - **Web Framework**: Crafted with Next.js, a React-based framework, to provide a user-centric and efficient interface.
 
 ### Infrastructure
-- **In-house Server**: Hosted on an in-house server nestled in our garage in California, embodying the true spirit of a garage startup.
+- **In-house Server**: Hosted on an in-house server nestled in our garage in California, embodying the true spirit of a garage startup. Additionally, we have established a swarm with our other servers located across the country in Madison, New York, and internationally in India, creating a redundancy that fortifies our infrastructure, ensuring high availability and reliability.
 - **Containerization**: Every component is dockerized to ensure a harmonized environment across different development and production settings.
 
 ### Continuous Integration/Continuous Deployment (CI/CD)
