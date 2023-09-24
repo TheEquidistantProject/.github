@@ -1,4 +1,3 @@
-# The Equidistant Project
 ![Equidistant Project Logo](logo_banner.png)
 
 ## Introduction
