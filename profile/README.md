@@ -1,4 +1,5 @@
 # The Equidistant Project
+![Equidistant Project Logo](logo_banner.png)
 
 ## Introduction
 The Equidistant Project stands as a beacon against the tide of misinformation and bias prevalent in the news sphere. By scrapping a diverse range of news articles, extracting the factual essence, and crafting new, unbiased articles, we aspire to create a platform where users can access and interpret factual news. This endeavor is geared towards nurturing a more enlightened public discourse.
