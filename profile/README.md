@@ -4,7 +4,7 @@ Welcome to The Equidistant Project's GitHub organization. Here, we are dedicated
 
 ## Table of Contents
 - [About Us](#about-us)
-- [Our Repositories](#our-repositories)
+- [Our Repositories](#our-tech-stack)
 - [License](#license)
 
 ## About Us
