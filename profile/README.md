@@ -25,12 +25,12 @@ The Equidistant Project stands as a beacon against the tide of misinformation an
 
 
 - **Description**: The frontend repository contains the code for our user interface. It is designed to provide an intuitive and responsive platform for users to access and search for factual news articles.
-- **GitHub Repository**: [TheEquidistantProject/Frontend](https://github.com/TheEquidistantProject/Frontend)
+- **GitHub Repository**: [TheEquidistantProject/Frontend](https://github.com/TheEquidistantProject/frontend)
 
 ### Backend
 
 - **Description**: Our backend repository stores the logic for serving articles and conducting searches. It uses MongoDB Atlas, Algolia, FastAPI, and Cloudflare Workers to ensure efficient and scalable performance.
-- **GitHub Repository**: [TheEquidistantProject/Backend](https://github.com/TheEquidistantProject/Backend)
+- **GitHub Repository**: [TheEquidistantProject/Backend](https://github.com/TheEquidistantProject/backend)
 
 ## License
 
