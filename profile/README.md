@@ -11,25 +11,23 @@ Welcome to The Equidistant Project's GitHub organization. Here, we are dedicated
 
 The Equidistant Project stands as a beacon against the tide of misinformation and bias prevalent in the news sphere. Our mission is to create a platform where users can access and interpret factual news. By scrapping a diverse range of news articles, extracting the factual essence, and crafting new, unbiased articles, we aspire to nurture a more enlightened public discourse.
 
-## Our Repositories
+## Our Tech Stack
+
+![Tech Stack](tech.png)
 
 ### Machine Learning Suite
 
-![Machine Learning Suite](ml.png)
 
 - **Description**: This repository houses the code and resources for our machine learning pipeline. We use state-of-the-art models to process news articles, calculate article similarity, and generate unbiased content.
 - **GitHub Repository**: [TheEquidistantProject/MachineLearningSuite](https://github.com/TheEquidistantProject/MachineLearningSuite)
 
 ### Frontend
 
-![Frontend](frontend.png)
 
 - **Description**: The frontend repository contains the code for our user interface. It is designed to provide an intuitive and responsive platform for users to access and search for factual news articles.
 - **GitHub Repository**: [TheEquidistantProject/Frontend](https://github.com/TheEquidistantProject/Frontend)
 
 ### Backend
-
-![Backend](backend.png)
 
 - **Description**: Our backend repository stores the logic for serving articles and conducting searches. It uses MongoDB Atlas, Algolia, FastAPI, and Cloudflare Workers to ensure efficient and scalable performance.
 - **GitHub Repository**: [TheEquidistantProject/Backend](https://github.com/TheEquidistantProject/Backend)
