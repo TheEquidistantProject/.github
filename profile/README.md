@@ -19,7 +19,7 @@ The Equidistant Project stands as a beacon against the tide of misinformation an
 
 
 - **Description**: This repository houses the code and resources for our machine learning pipeline. We use state-of-the-art models to process news articles, calculate article similarity, and generate unbiased content.
-- **GitHub Repository**: [TheEquidistantProject/MachineLearningSuite](https://github.com/TheEquidistantProject/MachineLearningSuite)
+- **GitHub Repository**: [TheEquidistantProject/ml-suite](https://github.com/TheEquidistantProject/ml-suite)
 
 ### Frontend
 
