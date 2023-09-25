@@ -39,3 +39,7 @@ Our repositories are licensed under the MIT License, which allows for open colla
 ---
 
 Thank you for supporting The Equidistant Project. Together, we can create a more informed and unbiased world.
+
+---
+
+### Made with ❤️ at HACKUIOWA: [Devpost Link](https://devpost.com/software/the-equidistant)
